@@ -1,6 +1,6 @@
-import sel from '../data/selectors';
-import exp from '../data/expected.json';
-import url from '../data/url.json';
+import sel from '../../data/selectors';
+import exp from '../../data/expected.json';
+import url from '../../data/url.json';
 
 describe('My Little Hero', function () {
 
