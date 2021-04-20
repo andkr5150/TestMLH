@@ -5,8 +5,3 @@ workflows:
   node-tests:
     jobs:
       - node/test
-test:
-   steps:
-    - npm test
-    - run: echo "npm test"      
-
